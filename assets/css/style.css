@@ -935,7 +935,7 @@ article:nth-of-type(6) li:nth-of-type(6):hover a:after {
   position: relative;
   transition: all 0.5s ease;
 }
-.projects-item img:hover {
+.projects-item:hover img {
   height: 40vh;
 }
 /* show text on hover */
@@ -945,7 +945,7 @@ article:nth-of-type(6) li:nth-of-type(6):hover a:after {
   font-size: 0.8em;
   transition: all 0.5s ease;
 }
-.projects-item:hover .hidden{
+.projects-item:hover .hidden {
   display: block;
 }
 .projects-item h4 {
