@@ -135,6 +135,9 @@ nav ul li a:hover {
   padding: 1vh 0;
   font-weight: 400;
 }
+#start video {
+  width: 100%;
+}
 #branding {
   background: url(../img/branding-img.svg) right top/25% no-repeat;
   margin-bottom: 15vh;
@@ -160,7 +163,6 @@ nav ul li a:hover {
   background: #252422;
   color: #f4f4f4;
 }
-
 /* featured engagements */
 #featured {
   padding: 5vh 0;
@@ -183,7 +185,6 @@ nav ul li a:hover {
   height: 7vh;
 }
 #featured h3 {
-  font-size: 2em;
   padding-bottom: 10vh;
 }
 .short-hr {
@@ -216,6 +217,9 @@ nav ul li a:hover {
 #connect h1 {
   font-family: "scto-bold";
   font-size: 5.2em;
+}
+#connect video {
+  width: 100%;
 }
 .pink {
   background: #252422;
@@ -411,6 +415,9 @@ footer a {
   font-family: "scto-bold", sans-serif;
   padding-top: 1vh;
   padding-bottom: 2vh;
+}
+.offers-item video {
+  width: 100%;
 }
 
 /* ABOUT PAGE 🔥  */
